@@ -25,12 +25,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kernal201/Restore-Base.git"
+    "url": "git+https://github.com/zombyrra/Restore-Base.git"
   },
   "bugs": {
-    "url": "https://github.com/kernal201/Restore-Base/issues"
+    "url": "https://github.com/zombyrra/Restore-Base/issues"
   },
-  "homepage": "https://github.com/kernal201/Restore-Base#readme",
+  "homepage": "https://github.com/zombyrra/Restore-Base#readme",
   "files": [
     "dist",
     "src",

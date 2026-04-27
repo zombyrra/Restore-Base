@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kernal201/Restore-Base/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/kernal201/Restore-Base/actions/workflows/ci.yml/badge.svg" /></a>
+  <a href="https://github.com/zombyrra/Restore-Base/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/zombyrra/Restore-Base/actions/workflows/ci.yml/badge.svg" /></a>
   <a href="./LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-111827.svg" /></a>
   <img alt="Node.js >=20.11" src="https://img.shields.io/badge/node-%3E%3D20.11-22c55e.svg" />
   <img alt="Discord.js v14" src="https://img.shields.io/badge/discord.js-v14-5865f2.svg" />
