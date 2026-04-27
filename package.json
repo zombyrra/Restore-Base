@@ -1,7 +1,7 @@
 {
   "name": "restore-base",
   "version": "0.1.0",
-  "description": "A small, self-hostable Discord bot wrapper inspired by RestoreBase.",
+  "description": "A small, self-hostable Discord bot wrapper inspired by RestoreBase and restorebase.net.",
   "type": "module",
   "main": "dist/index.js",
   "engines": {
@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/zombyrra/Restore-Base/issues"
   },
-  "homepage": "https://github.com/zombyrra/Restore-Base#readme",
+  "homepage": "https://restorebase.net",
   "files": [
     "dist",
     "src",

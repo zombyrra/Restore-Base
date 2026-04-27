@@ -1,6 +1,6 @@
 # Architecture
 
-Restore-Base is intentionally small, but it follows the same shape used by larger Discord services: validate configuration first, isolate command behavior, expose health independently, and keep process startup easy to reason about.
+Restore-Base is intentionally small, but it follows the same shape used by larger Discord services: validate configuration first, isolate command behavior, expose health independently, and keep process startup easy to reason about. The full hosted RestoreBase platform lives at [restorebase.net](https://restorebase.net).
 
 ## Runtime Flow
 
@@ -38,4 +38,4 @@ sequenceDiagram
 
 ## Non-Goals
 
-This repo is not a full RestoreBase source release. It does not include private workspace code, production data flows, customer-specific automation, or the hosted recovery product.
+This repo is not a full RestoreBase source release. It does not include private workspace code, production data flows, customer-specific automation, or the hosted recovery product available at [restorebase.net](https://restorebase.net).

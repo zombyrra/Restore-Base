@@ -5,7 +5,7 @@
 <h1 align="center">Restore-Base</h1>
 
 <p align="center">
-  A production-minded Discord bot wrapper inspired by RestoreBase.
+  A production-minded Discord bot wrapper inspired by <a href="https://restorebase.net">RestoreBase</a>.
 </p>
 
 [![CI](https://github.com/zombyrra/Restore-Base/actions/workflows/ci.yml/badge.svg)](https://github.com/zombyrra/Restore-Base/actions/workflows/ci.yml)
@@ -17,7 +17,7 @@
 
 Restore-Base is a small, self-hostable Discord bot foundation for teams that want a clean starting point instead of a tangled demo. It ships with typed configuration, gateway lifecycle handling, slash command registration, prefix command support, and a health endpoint that can be wired into a host or uptime monitor.
 
-This public repo is intentionally scoped. It does not include the private RestoreBase dashboard, billing, database schema, member recovery system, workspace automation, or production credentials.
+This public repo is intentionally scoped. It does not include the private RestoreBase dashboard, billing, database schema, member recovery system, workspace automation, or production credentials. For the hosted Discord recovery, verification, anti-raid, and operations platform, visit [restorebase.net](https://restorebase.net).
 
 ## What It Includes
 
@@ -99,6 +99,10 @@ npm start
 ```
 
 The service exposes `GET /health` with readiness, bot identity, and process uptime. That endpoint is designed for simple uptime checks on platforms like Railway, Render, Fly.io, Docker, or a VPS.
+
+## Hosted RestoreBase
+
+If you want the complete managed product instead of maintaining your own bot wrapper, RestoreBase is available at [restorebase.net](https://restorebase.net). The hosted platform focuses on Discord server recovery, verification flows, anti-raid operations, member continuity, and workspace tooling.
 
 ## Roadmap
 
